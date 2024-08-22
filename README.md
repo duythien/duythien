@@ -1,7 +1,7 @@
 - Hi, I’m @duythien
--  👀 I’m interested in Web3.0 | Blockchain | NFTs | Substrate | Cosmos
+-  👀 I’m interested in Web3.0 | Blockchain | Solana | Substrate | Cosmos
 - 🌱 I’m currently learning Substrate | Rust | MetaProgramming | GoLang
-- 🌱 I’m looking to work with OpenStack, GCP
+- 💞️ I’m looking to work with GCP | OpenStack
 - 💞️ I’m looking to collaborate on Open Source Custom blockchains built with Substrate & Cosmos
 
 📫 How to reach me
