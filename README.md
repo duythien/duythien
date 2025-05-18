@@ -1,6 +1,6 @@
 - Hi, I’m @duythien
 -  👀 I’m interested in Web3.0 | Blockchain | Solana | Substrate 
-- 🌱 I’m currently learning Substrate | Rust | GoLang
+- 🌱 I’m currently learning Substrate | Rust | WASM
 - 💞️ I’m looking to work with GCP | OpenStack
 - 💞️ I’m looking to collaborate on Open Source Custom blockchains built with Rust
 
