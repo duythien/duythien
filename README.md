@@ -1,8 +1,4 @@
-- Hi, I’m @duythien
--  👀 I’m interested in Web3.0 | Blockchain | Solana | Substrate 
-- 🌱 I’m currently learning Substrate | Rust | WASM
-- 💞️ I’m looking to work with GCP | OpenStack
-- 💞️ I’m looking to collaborate on Open Source Custom blockchains built with Rust
+I got into Web3 before it was a career move. I believe the next internet should be owned by its users — not rented from cloud providers or controlled by platforms that can vanish your account overnight. That's why I build on Substrate, write Rust, and care deeply about decentralized infrastructure. It's not a skill on my resume. It's a conviction.
 
 📫 How to reach me
 Email at: fcduythien@gmail.com
